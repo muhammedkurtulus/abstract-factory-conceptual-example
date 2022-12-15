@@ -14,7 +14,7 @@ A boilerplate template for abstract factory design pattern.
 - Install dependencies `npm install`
 - Run `npm run dev` to start the development server
 - Open the `http://localhost:3000/abstract` in a browser
-- Open the the Console to see outputs in the browser
+- Open the Console to see outputs in the browser
 
 <!-- ### Screenshots
 
