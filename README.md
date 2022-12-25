@@ -1,6 +1,6 @@
 # Next.js - TypeScript
 
-A boilerplate template for abstract factory design pattern.
+A conceptual example for abstract factory design pattern.
 
 ## Built with
 
@@ -13,7 +13,7 @@ A boilerplate template for abstract factory design pattern.
 - Clone the repository
 - Install dependencies `npm install`
 - Run `npm run dev` to start the development server
-- Open the `http://localhost:3000/abstract` in a browser
+- Open the `http://localhost:3000` in a browser
 - Open the Console to see outputs in the browser
 
 <!-- ### Screenshots
